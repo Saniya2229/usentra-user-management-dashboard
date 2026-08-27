@@ -407,7 +407,7 @@ Possible enhancements:
 
 ## Dashboard — Grid View
 
-![Dashboard Grid](./screenshots/01-dashboard-main.png)
+![Dashboard Main](./screenshots/01-dashboard-main.png)
 
 ## Dashboard — Table View
 
@@ -415,23 +415,23 @@ Possible enhancements:
 
 ## Company Filter
 
-![Company Filter](./screenshots/03-dashboard-grid.png)
+![Dashboard Grid](./screenshots/03-dashboard-grid.png)
 
 ## User Details
 
-![User Details](./screenshots/04-company-names.png)
+![Company Details](./screenshots/04-company-names.png)
 
 ## Edit User
 
-![Edit User](./screenshots/05-company-view.png)
+![Company view](./screenshots/05-company-view.png)
 
 ## Create New User
 
-![Create User](./screenshots/06-edit-user.png)
+![Edit User](./screenshots/06-edit-user.png)
 
 ## Additional View
 
-![Additional View](./screenshots/07-create-new-user.png)
+![New User](./screenshots/07-create-new-user.png)
 
 ---
 
