@@ -413,23 +413,23 @@ Possible enhancements:
 
 ![Dashboard Table](./screenshots/02-dashboard-table.png)
 
-## Company Filter
+## Dashboard Filter
 
 ![Dashboard Grid](./screenshots/03-dashboard-grid.png)
 
-## User Details
+## Company Details
 
 ![Company Details](./screenshots/04-company-names.png)
 
-## Edit User
+## Company - View
 
 ![Company view](./screenshots/05-company-view.png)
 
-## Create New User
+## Edit User
 
 ![Edit User](./screenshots/06-edit-user.png)
 
-## Additional View
+## New User
 
 ![New User](./screenshots/07-create-new-user.png)
 
